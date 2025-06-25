@@ -42,8 +42,8 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 💡 **AI and Analytics**: Currently developing analytics and service insights using AI to predict the performance and behavior of Cisco security products  
 💡 **LangChain-based VPN Automation System**: Built a system to debug issues using config, logs, and internal knowledge, leveraging a multi-agent architecture  
 💡 **GenAI Feedback Visualizer**: Created a tool used by 100+ Cisco managers  
-💡 **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and leadership at the Cisco Security Summit 2023  
-💡 **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights with less than 1% data usage  
+💡 **FastAPI-backed APIs**: Built and showcased APIs to 500+ customers and Senior VP along with other leadership at the Cisco Security Summit 2023  
+💡 **SQL Monitoring Plugin in Go**: Developed a plugin to optimize database insights with for health monitoring. 
 💡 **Python-React Dashboards**: Built dashboards to manage case timelines
 
 ---
