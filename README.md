@@ -77,7 +77,7 @@ With experience in backend engineering using **Python**, **Java**, and **Go**, a
 🧘 Engaged in **spiritual growth** through meditation and introspection  
 🧘 Fascinated by **cosmic exploration** and space tech  
 🧘 Avid reader of **philosophy**, **technology**, and **AI innovation**  
-🧘 Big fan of _The Big Bang Theory_ 😉
+🧘 Big fan of _The Big Bang Theory_ webseries 😉
 
 ---
 
